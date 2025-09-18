@@ -12,8 +12,6 @@
     "type-check": "tsc --noEmit",
     "deploy": "npm run build && gh-pages -d dist",
     "predeploy": "npm run build"
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.3.2",
