@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sample-1",
+    "type": "blog_post",
+    "title": "Dynamic Fund Application Table - UI/UX Design Showcase",
+    "content": "Explore this innovative **Dynamic Fund Application Table** design that revolutionizes how financial data is presented and interacted with. This Figma prototype demonstrates a modern approach to fund management interfaces with intuitive user experience patterns.\n\n**Key Features:**\n- Interactive data visualization\n- Responsive table design\n- Modern UI components\n- Seamless user workflow\n\n**Design Highlights:**\n- Clean, minimalist interface\n- Intuitive navigation patterns\n- Data-driven visual hierarchy\n- Mobile-responsive layout\n\nCheck out the full interactive prototype: [Dynamic Fund Application Table](https://www.figma.com/make/J0YNzXx0uEQRp8xLmp8xyk/Dynamic-Fund-Application-Table?fullscreen=1)\n\nThis design showcases how modern fintech applications can combine functionality with beautiful user experience, making complex financial data accessible and engaging for users.",
+    "tags": ["design", "ui-ux", "fintech", "prototype", "figma"],
+    "createdAt": 1704067200000,
+    "status": "published"
+  },
+  {
+    "id": "sample-2",
+    "type": "blog_post",
+    "title": "5 Essential Budgeting Tips for 2024",
+    "content": "Mastering your finances doesn't have to be complicated. Here are five proven strategies to take control of your budget in 2024:\n\n**1. The 50/30/20 Rule**\nAllocate 50% of your income to needs, 30% to wants, and 20% to savings and debt repayment.\n\n**2. Track Every Expense**\nUse budgeting apps or spreadsheets to monitor where your money goes. Awareness is the first step to control.\n\n**3. Build an Emergency Fund**\nAim for 3-6 months of living expenses in a high-yield savings account.\n\n**4. Automate Your Savings**\nSet up automatic transfers to your savings account on payday.\n\n**5. Review and Adjust Monthly**\nRegular budget reviews help you stay on track and adapt to life changes.\n\nRemember, budgeting is a journey, not a destination. Start small and build momentum over time.",
+    "tags": ["budgeting", "personal-finance", "tips", "2024", "savings"],
+    "createdAt": 1704153600000,
+    "status": "published"
+  },
+  {
+    "id": "sample-3",
+    "type": "blog_post",
+    "title": "AI-Powered Financial Insights: The Future of Personal Finance",
+    "content": "Artificial Intelligence is transforming how we manage our personal finances. From automated budgeting to predictive analytics, AI is making financial management more accessible and intelligent.\n\n**How AI is Revolutionizing Finance:**\n\n- **Smart Categorization**: Automatically categorize transactions\n- **Spending Predictions**: Forecast future expenses based on patterns\n- **Investment Recommendations**: Personalized portfolio suggestions\n- **Fraud Detection**: Real-time security monitoring\n- **Budget Optimization**: AI-driven budget adjustments\n\n**Benefits for Users:**\n- Saves time on manual data entry\n- Provides actionable insights\n- Reduces financial stress\n- Improves decision-making\n- Offers 24/7 financial guidance\n\n**Getting Started:**\n1. Choose an AI-powered financial app\n2. Connect your accounts securely\n3. Set your financial goals\n4. Let AI analyze your patterns\n5. Follow personalized recommendations\n\nThe future of personal finance is here, and it's powered by artificial intelligence.",
+    "tags": ["ai", "artificial-intelligence", "fintech", "automation", "future"],
+    "createdAt": 1704240000000,
+    "status": "published"
+  },
+  {
+    "id": "sample-4",
+    "type": "blog_post",
+    "title": "Investment Strategies for Beginners: Start Your Wealth-Building Journey",
+    "content": "Starting your investment journey can feel overwhelming, but with the right approach, you can build wealth over time. Here's a beginner-friendly guide to get you started.\n\n**Understanding the Basics:**\n\n**1. Start with Index Funds**\nLow-cost, diversified funds that track market indices are perfect for beginners.\n\n**2. Dollar-Cost Averaging**\nInvest a fixed amount regularly, regardless of market conditions.\n\n**3. Diversification is Key**\nSpread your investments across different asset classes and sectors.\n\n**4. Think Long-Term**\nInvesting is a marathon, not a sprint. Focus on long-term growth.\n\n**5. Keep Costs Low**\nChoose low-fee investment options to maximize your returns.\n\n**Getting Started Checklist:**\n- [ ] Set clear financial goals\n- [ ] Build an emergency fund first\n- [ ] Choose a reputable brokerage\n- [ ] Start with small amounts\n- [ ] Educate yourself continuously\n\n**Common Mistakes to Avoid:**\n- Trying to time the market\n- Investing money you can't afford to lose\n- Following hot tips without research\n- Panic selling during market dips\n\nRemember, the best time to start investing was yesterday. The second best time is today.",
+    "tags": ["investing", "beginners", "wealth-building", "index-funds", "diversification"],
+    "createdAt": 1704326400000,
+    "status": "draft"
+  },
+  {
+    "id": "sample-5",
+    "type": "blog_post",
+    "title": "The Psychology of Money: Understanding Your Financial Behavior",
+    "content": "Money decisions are rarely purely rational. Understanding the psychological factors that influence our financial behavior can help us make better choices and achieve our goals.\n\n**Key Psychological Factors:**\n\n**1. Loss Aversion**\nWe feel the pain of losing money more intensely than the pleasure of gaining it.\n\n**2. Present Bias**\nWe tend to prioritize immediate gratification over long-term benefits.\n\n**3. Anchoring**\nOur financial decisions are influenced by the first piece of information we receive.\n\n**4. Social Proof**\nWe often make financial decisions based on what others are doing.\n\n**5. Mental Accounting**\nWe treat money differently depending on its source or intended use.\n\n**Strategies to Overcome Biases:**\n\n- **Automate Good Habits**: Set up automatic savings and investments\n- **Create Accountability**: Share your goals with trusted friends or family\n- **Focus on Process**: Concentrate on systems rather than outcomes\n- **Educate Yourself**: Knowledge helps overcome emotional decision-making\n- **Practice Mindfulness**: Be aware of your emotional state when making financial decisions\n\n**Building Healthy Money Habits:**\n1. Regular financial check-ins\n2. Goal-setting and tracking\n3. Emergency fund maintenance\n4. Continuous learning\n5. Seeking professional advice when needed\n\nUnderstanding your money psychology is the first step toward financial freedom.",
+    "tags": ["psychology", "behavioral-finance", "money-mindset", "habits", "decision-making"],
+    "createdAt": 1704412800000,
+    "status": "published"
+  }
+]
